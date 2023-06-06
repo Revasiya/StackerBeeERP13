@@ -1,1 +1,7 @@
-# StackerBeeERP13
+## Intozu Custom
+
+Intozu Custom App
+
+#### License
+
+MIT
